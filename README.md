@@ -1,4 +1,4 @@
-# ASSIGNMENT-02
+# ICS20-UNIT-3-03-HTML
 
 [![GitHub's Super Linter](https://github.com/Curtis-Edwards/ASSIGNMENT-02/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/Curtis-Edwards/ASSIGNMENT-02/actions)
 
