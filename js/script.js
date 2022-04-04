@@ -5,11 +5,11 @@
 function calculate () {
   // input
   const radius = parseInt(document.getElementById('radius').value)
-  const pi = Math.PI;
+
   // process
   
-  const area = ( pi * radius  ) *  radius
+  const volume = 1.333 * Math.PI * radius * radius * radius
 
   // output
-  document.getElementById('area').innerHTML = 'Area is: ' + area.toFixed(2) + ' cm²'
+  document.getElementById('volume').innerHTML = 'Volume is: ' + volume.toFixed(2) + ' cm²'
 }
